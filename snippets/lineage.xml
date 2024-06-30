@@ -162,6 +162,7 @@
     <project path="external/webp" name="android_external_webp" groups="pdk,qcom_msm8x26" remote="lineage" />
     <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" groups="pdk" remote="lineage" />
     <project path="external/setupcompat" name="android_external_setupcompat" groups="pdk" remote="lineage" />
+    <project path="external/sonivox" name="android_external_sonivox" groups="pdk" remote="lineage" />
     <project path="external/zstd" name="android_external_zstd" groups="pdk" remote="lineage" />
 
     <!-- Frameworks -->
@@ -255,6 +256,7 @@
     <project path="system/apex" name="android_system_apex" groups="pdk" remote="lineage" />
     <project path="system/extras" name="android_system_extras" groups="pdk" remote="lineage" />
     <project path="system/keymaster" name="android_system_keymaster" groups="pdk" remote="lineage" />
+    <project path="system/libfmq" name="android_system_libfmq" groups="pdk" remote="lineage" />
     <project path="system/libhidl" name="android_system_libhidl" groups="pdk" remote="lineage" />
     <project path="system/libziparchive" name="android_system_libziparchive" groups="pdk" remote="lineage" />
     <project path="system/logging" name="android_system_logging" groups="pdk" remote="lineage" />
